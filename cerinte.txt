@@ -1,0 +1,20 @@
+se da un o comanda: nume , adresa (cluj) si o categorie de pizza, se pot comanda mai multe pizza
+
+
+punct maxim daca  se adauga numa adresa si o pizza ex
+
+nico cluj stagioni, formagio
+
+nico cluj stagioni
+nico cluj formagio
+
+sa se determine persoana care are cele mai multe comenzi
+sa se ordoneze descrescator adresele in functie de nr de vocale continute a e i o u
+
+validari
+teste
+nume variabile sugestive
+specificatii
+sa fie cu clase...
+
+a zis ca pune cerinta pe site cam asa era
